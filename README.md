@@ -8,4 +8,4 @@ Exercícios e projetos realizados durante o Bootcamp Santander 2025 - Back-End c
 ## [Sintaxe básica de Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/Sintaxe%20básica%20do%20Java)
  -  [Exercícios: Fundamentos da Linguagem de Programação Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/Sintaxe%20básica%20do%20Java/01-Fundamentos%20da%20Linguagem%20de%20Programação%20Java)
  -  [Projeto: Simulando Uma Conta Bancária Através do Terminal](https://github.com/alineaos/bootcamp-santander-java/tree/main/Sintaxe%20básica%20do%20Java/02-Simulando%20Uma%20Conta%20Bancária%20Através%20do%20Terminal)
- -   -  [Exercícios: Estruturas de Controle em Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/Sintaxe%20básica%20do%20Java/03-Estruturas%20de%20Controle%20em%20Java)
+ -  [Exercícios: Estruturas de Controle em Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/Sintaxe%20básica%20do%20Java/03-Estruturas%20de%20Controle%20em%20Java)
