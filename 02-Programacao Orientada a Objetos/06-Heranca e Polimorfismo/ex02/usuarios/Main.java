@@ -3,7 +3,6 @@ package ex02.usuarios;
 import java.util.Scanner;
 
 public class Main {
-    private final static Scanner sc = new Scanner(System.in);
     // Dados fictícios usados apenas para fins didáticos.
     private final static Gerente gerente = new Gerente("Ana", "ana@gerente.com", "123456");
     private final static Vendedor vendedor = new Vendedor("Joao", "joao@vendas.com", "789012");
