@@ -1,6 +1,6 @@
-[submodule "Sintaxe básica do Java/02-Simulando Uma Conta Bancária Através do Terminal/dio-trilha-java-basico"]
-	path = Sintaxe básica do Java/02-Simulando Uma Conta Bancária Através do Terminal/dio-trilha-java-basico
+[submodule "01-Sintaxe básica do Java/02-Simulando Uma Conta Bancária Através do Terminal/dio-trilha-java-basico"]
+	path = 01-Sintaxe básica do Java/02-Simulando Uma Conta Bancária Através do Terminal/dio-trilha-java-basico
 	url = https://github.com/alineaos/dio-trilha-java-basico
-[submodule "Sintaxe básica do Java/04-Desafio Controle de Fluxo/dio-desafio-controle-fluxo"]
-	path = Sintaxe básica do Java/04-Desafio Controle de Fluxo/dio-desafio-controle-fluxo
+[submodule "01-Sintaxe básica do Java/04-Desafio Controle de Fluxo/dio-desafio-controle-fluxo"]
+	path = 01-Sintaxe básica do Java/04-Desafio Controle de Fluxo/dio-desafio-controle-fluxo
 	url = https://github.com/alineaos/dio-desafio-controle-fluxo
