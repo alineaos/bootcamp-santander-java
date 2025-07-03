@@ -14,3 +14,5 @@ Exercícios e projetos realizados durante o Bootcamp Santander 2025 - Back-End c
 ## [Programação Orientada a Objetos](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programação%20Orientada%20a%20Objetos)
 - [Exercícios: Classes e Encapsulamento](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programação%20Orientada%20a%20Objetos/04-Classes%20e%20%Encapsulamento)
 - [Exercícios: Herança e Polimorfismo](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programação%20Orientada%20a%20Objetos/05-Heranca%20e%20%Polimorfismo)
+- [Exercícios: Interfaces](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos/07-Interfaces)
+- [Projeto: Modelando iPhone com UML](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos/08-Modelando%20iPhone%20com%20UML)
