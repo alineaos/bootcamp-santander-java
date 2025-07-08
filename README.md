@@ -19,3 +19,4 @@ Exercícios e projetos realizados durante o Bootcamp Santander 2025 - Back-End c
 
 ## [Coleções e Stream em Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java)
 - [Exercícios: Conhecendo Collections](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java/09-Conhecendo%20Collections)
+- [Exercícios: Stream API](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java/10-Stream%20API)
