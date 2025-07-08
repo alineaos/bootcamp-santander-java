@@ -11,9 +11,13 @@ Exercícios e projetos realizados durante o Bootcamp Santander 2025 - Back-End c
 -  [Exercícios: Estruturas de Controle em Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/01-Sintaxe%20básica%20do%20Java/03-Estruturas%20de%20Controle%20em%20Java)
 -  [Projeto: Desafio de Controle de Fluxo](https://github.com/alineaos/bootcamp-santander-java/tree/main/01-Sintaxe%20básica%20do%20Java/04-Desafio%20Controle%20de%20Fluxo)
 
-## [Programação Orientada a Objetos](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programação%20Orientada%20a%20Objetos)
-- [Exercícios: Classes e Encapsulamento](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programação%20Orientada%20a%20Objetos/04-Classes%20e%20%Encapsulamento)
-- [Exercícios: Herança e Polimorfismo](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programação%20Orientada%20a%20Objetos/05-Heranca%20e%20%Polimorfismo)
+## [Programação Orientada a Objetos](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos)
+- [Exercícios: Classes e Encapsulamento](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos/04-Classes%20e%20%Encapsulamento)
+- [Exercícios: Herança e Polimorfismo](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos/05-Heranca%20e%20%Polimorfismo)
 - [Exercícios: Interfaces](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos/07-Interfaces)
 - [Projeto: Modelando iPhone com UML](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos/08-Modelando%20iPhone%20com%20UML)
 
+## [Coleções e Stream em Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java)
+- [Exercícios: Conhecendo Collections](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java/09-Conhecendo%20Collections)
+- [Exercícios: Stream API](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java/10-Stream%20API)
+- [Projeto: Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/alineaos/bootcamp-santander-java/tree/secundaria/03-%20Coleções%20e%20Stream%20em%20Java/11-%20Banco%20Digital%20com%20Orientação%20a%20Objetos)
