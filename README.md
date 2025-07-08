@@ -17,5 +17,5 @@ Exercícios e projetos realizados durante o Bootcamp Santander 2025 - Back-End c
 - [Exercícios: Interfaces](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos/07-Interfaces)
 - [Projeto: Modelando iPhone com UML](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos/08-Modelando%20iPhone%20com%20UML)
 
-##[Coleções e Stream em Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java)
+## [Coleções e Stream em Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java)
 -[Exercícios: Conhecendo Collections](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java/09-Conhecendo%20Collections)
