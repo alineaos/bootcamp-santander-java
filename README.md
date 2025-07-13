@@ -24,4 +24,4 @@ Exercícios e projetos realizados durante o Bootcamp Santander 2025 - Back-End c
 - [Projeto: Criando um Jogo do Sudoku](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-Coleções%20e%20Stream%20em%20Java/12-Criando%20um%20Jogo%20do%20Sudoku)
 
 ## [Desenvolvimento de APIs](https://github.com/alineaos/bootcamp-santander-java/tree/main/04-Desenvolvimento%20de%20APIs)
-- [Código: 13-API REST com Spring Web e Swagger](https://github.com/alineaos/bootcamp-santander-java/tree/main/04-Desenvolvimento%20de%20APIs/13-API%20REST%20com%20Spring%20Web%20e%20Swagger)
+- [Código: API REST com Spring Web e Swagger](https://github.com/alineaos/bootcamp-santander-java/tree/main/04-Desenvolvimento%20de%20APIs/13-API%20REST%20com%20Spring%20Web%20e%20Swagger)
