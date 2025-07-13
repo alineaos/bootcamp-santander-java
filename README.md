@@ -17,7 +17,11 @@ Exercícios e projetos realizados durante o Bootcamp Santander 2025 - Back-End c
 - [Exercícios: Interfaces](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos/07-Interfaces)
 - [Projeto: Modelando iPhone com UML](https://github.com/alineaos/bootcamp-santander-java/tree/main/02-Programacao%20Orientada%20a%20Objetos/08-Modelando%20iPhone%20com%20UML)
 
-## [Coleções e Stream em Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java)
-- [Exercícios: Conhecendo Collections](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java/09-Conhecendo%20Collections)
-- [Exercícios: Stream API](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-%20Coleções%20e%20Stream%20em%20Java/10-Stream%20API)
-- [Projeto: Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/alineaos/bootcamp-santander-java/tree/secundaria/03-%20Coleções%20e%20Stream%20em%20Java/11-%20Banco%20Digital%20com%20Orientação%20a%20Objetos)
+## [Coleções e Stream em Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-Coleções%20e%20Stream%20em%20Java)
+- [Exercícios: Conhecendo Collections](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-Coleções%20e%20Stream%20em%20Java/09-Conhecendo%20Collections)
+- [Exercícios: Stream API](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-Coleções%20e%20Stream%20em%20Java/10-Stream%20API)
+- [Projeto: Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-Coleções%20e%20Stream%20em%20Java/11-Banco%20Digital%20com%20Orientação%20a%20Objetos)
+- [Projeto: Criando um Jogo do Sudoku](https://github.com/alineaos/bootcamp-santander-java/tree/main/03-Coleções%20e%20Stream%20em%20Java/12-Criando%20um%20Jogo%20do%20Sudoku)
+
+## [Desenvolvimento de APIs](https://github.com/alineaos/bootcamp-santander-java/tree/main/04-Desenvolvimento%20de%20APIs)
+- [Código: API REST com Spring Web e Swagger](https://github.com/alineaos/bootcamp-santander-java/tree/main/04-Desenvolvimento%20de%20APIs/13-API%20REST%20com%20Spring%20Web%20e%20Swagger)

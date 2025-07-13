@@ -7,6 +7,9 @@
 [submodule "02-Programacao Orientada a Objetos/08-Modelando iPhone com UML/dio-desafio-iphone"]
 	path = 02-Programacao Orientada a Objetos/08-Modelando iPhone com UML/dio-desafio-iphone
 	url = https://github.com/alineaos/dio-desafio-iphone
-[submodule "03- Coleções e Stream em Java/11- Banco Digital com Orientação a Objetos/dio-desafio-banco-digital"]
-	path = 03- Coleções e Stream em Java/11- Banco Digital com Orientação a Objetos/dio-desafio-banco-digital
-	url = https://github.com/alineaos/dio-desafio-banco-digital.git
+[submodule "03-Coleções e Stream em Java/12-Criando um Jogo do Sudoku/dio-desafio-sudoku"]
+	path = 03-Coleções e Stream em Java/12-Criando um Jogo do Sudoku/dio-desafio-sudoku
+	url = https://github.com/alineaos/dio-desafio-sudoku
+[submodule "03-Coleções e Stream em Java/11-Banco Digital com Orientação a Objetos/dio-desafio-banco-digital"]
+	path = 03-Coleções e Stream em Java/11-Banco Digital com Orientação a Objetos/dio-desafio-banco-digital
+	url = https://github.com/alineaos/dio-desafio-banco-digital
