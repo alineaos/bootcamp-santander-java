@@ -27,4 +27,4 @@ Exercícios e projetos realizados durante o Bootcamp Santander 2025 - Back-End c
 - [Código: API REST com Spring Web e Swagger](https://github.com/alineaos/bootcamp-santander-java/tree/main/04-Desenvolvimento%20de%20APIs/13-API%20REST%20com%20Spring%20Web%20e%20Swagger)
 - [Código: API REST com Spring Security e JWT](https://github.com/alineaos/bootcamp-santander-java/tree/main/04-Desenvolvimento%20de%20APIs/14-API%20REST%20com%20Spring%20Security%20e%20JWT)
 - [Projeto: Design Pattern com Java](https://github.com/alineaos/bootcamp-santander-java/tree/main/04-Desenvolvimento%20de%20APIs/15-Design%20Pattern%20com%20Java)
-- [Projeto: Criando uma API REST](https://github.com/alineaos/bootcamp-santander-java/tree/main/04-Desenvolvimento%20de%20APIs/15-Criando%20uma%20API%20REST)
+- [Projeto: Criando uma API REST](https://github.com/alineaos/bootcamp-santander-java/tree/main/04-Desenvolvimento%20de%20APIs/16-Criando%20uma%20API%20REST)
