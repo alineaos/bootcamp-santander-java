@@ -16,3 +16,6 @@
 [submodule "04-Desenvolvimento de APIs/15-Design Pattern com Java/dio-java-design-pattern"]
 	path = 04-Desenvolvimento de APIs/15-Design Pattern com Java/dio-java-design-pattern
 	url = https://github.com/alineaos/dio-java-design-pattern
+[submodule "04-Desenvolvimento de APIs/16-Criando uma API REST/dio-projeto-api-rest"]
+	path = 04-Desenvolvimento de APIs/16-Criando uma API REST/dio-projeto-api-rest
+	url = https://github.com/alineaos/dio-projeto-api-rest
