@@ -31,3 +31,4 @@ Exercícios e projetos realizados durante o Bootcamp Santander 2025 - Back-End c
 
 ## [Integração Java com Banco de Dados](https://github.com/alineaos/bootcamp-santander-java/tree/main/05-Integração%20Java%20com%20Banco%20de%20Dados)
 - [Código: Introdução a Banco de Dados Relacionais (SQL)](https://github.com/alineaos/bootcamp-santander-java/tree/main/05-Integração%20Java%20com%20Banco%20de%20Dados/17-Introdução%20a%20Banco%20de%20Dados%20Relacionais%20(SQL))
+- [Código: JDBC Explorando Persistências de Dados](https://github.com/alineaos/bootcamp-santander-java/tree/main/05-Integração%20Java%20com%20Banco%20de%20Dados/18-JDBC%20Explorando%20Persistências%20de%20Dados)
